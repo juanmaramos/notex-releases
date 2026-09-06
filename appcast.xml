@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Sun, 06 Sep 2026 23:49:42 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.1.3</sparkle:fullReleaseNotesLink>
+            <sparkle:version>7.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.1.3
+
+Updates, at your pace
+
+- A quiet Update available button appears at the bottom of the sidebar when a new version is ready. Hide the sidebar and the button moves to the toolbar.
+- Open the button to review what's new and choose when to install.
+- Remind Me Later keeps the button available, even after you reopen Notex. Skip This Version hides it. The button clears after you update.
+- Notex checks when it opens and once a day. You can turn automatic checks off in Settings > Updates.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.1.3/Notex.dmg" length="6648108" type="application/octet-stream" sparkle:edSignature="ncNBjlpPiZob2URGocW2l4/6MpYBf6w5ANxONCfdXb+MQr0sQsIueO8UzybzS2Q4AL4hn6qcb5b9pEBIWWNZBg=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Sun, 06 Sep 2026 23:16:45 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.1.2</sparkle:fullReleaseNotesLink>
@@ -37,25 +55,9 @@ Requires macOS 26 or later. AI features require a compatible Mac with Apple Inte
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.1.1/Notex.dmg" length="6622145" type="application/octet-stream" sparkle:edSignature="qMPrZPlwplio2A5R8bFk6+X4njr9xe9RqfBg1mxDVJFNcluDSHCC1HPBeCJZzwDKZGIMzm5efNWVd1GxfUMYDQ=="/>
         </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sun, 06 Sep 2026 22:11:17 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.1.0</sparkle:fullReleaseNotesLink>
-            <sparkle:version>4.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.1.0
-
-Write notes, record meetings, and chat with your notes on your Mac.
-This release includes signed in-app updates and a refined drag-to-Applications installer.
-
-Requires macOS 26 or later. AI features require a compatible Mac with Apple Intelligence enabled.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.1.0/Notex.dmg" length="6621141" type="application/octet-stream" sparkle:edSignature="GZiQ+sdWg5O9L0P1cjNfTvvyvjsUIkcOK2Hu7Qws5iX+AyvRyBc5FUAuUqMpP8DsulEjyW1WAfAhosOz7OmmAg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: sJAdPJyk/lbLmEFzhyFRWGQQ3gmxjPNBttFMkyuGkRlfohP4P3sDwgUJ0yimtl+h3q09phE8gyvmfOO5kb5LBg==
-length: 3705
+edSignature: mMyKUjKNHZnl1t8iSERu1BekmXtGxPyHz3kQSH67nMKLbCKGyAa6MH3mKBL7WT4tkUhoj2JknmfR0pyplvRlBQ==
+length: 3933
 -->
