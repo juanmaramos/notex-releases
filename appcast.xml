@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Notex</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 06 Sep 2026 22:11:17 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.1.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.1.0
+
+Write notes, record meetings, and chat with your notes on your Mac.
+This release includes signed in-app updates and a refined drag-to-Applications installer.
+
+Requires macOS 26 or later. AI features require a compatible Mac with Apple Intelligence enabled.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.1.0/Notex.dmg" length="6621141" type="application/octet-stream" sparkle:edSignature="GZiQ+sdWg5O9L0P1cjNfTvvyvjsUIkcOK2Hu7Qws5iX+AyvRyBc5FUAuUqMpP8DsulEjyW1WAfAhosOz7OmmAg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: m9fMyrdKScMqKpcovcywO5jJFg2ByDVfMPw7vWfvpHjkfkHrePOgSVb/+aXtBWVecJYfmwe5TSaQD9rj3dGtDw==
+length: 1529
+-->
