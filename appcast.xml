@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Sun, 06 Sep 2026 23:16:45 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.1.2</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.1.2
+
+Write notes, record meetings, and chat with your notes on your Mac.
+This release includes signed in-app updates and a refined drag-to-Applications installer.
+
+Requires macOS 26 or later. AI features require a compatible Mac with Apple Intelligence enabled.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.1.2/Notex.dmg" length="6622217" type="application/octet-stream" sparkle:edSignature="dElaLz20Si3BSv51jpjT8WXCdruqSGB4kLXvZd3yBIZSv2fetBLo1n9oJ0OohCknGuf/M+hcAW4GXSbh3HjbBw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Sun, 06 Sep 2026 22:57:57 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.1.1</sparkle:fullReleaseNotesLink>
@@ -40,6 +56,6 @@ Requires macOS 26 or later. AI features require a compatible Mac with Apple Inte
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7Mq5ndq1VfdpVf14Q21WLxzK/82etmL/L8o89t9ckOxaqcImb/OY43wiruRLJhEik9IocHf2U67N98XgrMxIDw==
-length: 2613
+edSignature: sJAdPJyk/lbLmEFzhyFRWGQQ3gmxjPNBttFMkyuGkRlfohP4P3sDwgUJ0yimtl+h3q09phE8gyvmfOO5kb5LBg==
+length: 3705
 -->
