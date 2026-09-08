@@ -6,6 +6,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Tue, 08 Sep 2026 22:53:32 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.3</sparkle:fullReleaseNotesLink>
+            <sparkle:version>15.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.3
+
+Better editing and recording diagnostics
+
+- Improved native editing, table cell selection, and Undo.
+- Use Insert in Note to add assistant answers while preserving headings and lists.
+- Choose sorting and date grouping for individual folders.
+- Finish and save an active recording when quitting Notex.
+- Added crash reports and recording reliability counts to help investigate failures. Audio, transcripts, and note content are excluded. Turn off Share diagnostic data in Settings > General > Diagnostics to stop sharing.
+- Refined the app icon, appearance controls, and recording cards.
+
+Requires macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.3/Notex.dmg" length="12713229" type="application/octet-stream" sparkle:edSignature="62Oee01yWxaYSTBZwsXEWi4YgKsMq3/CYkU6udQKEXZHCscjhVRJchwF8POR8ikVHSxWH3FNGX6Pe/kSqpsVCg=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Mon, 07 Sep 2026 22:14:24 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.2</sparkle:fullReleaseNotesLink>
@@ -44,33 +66,9 @@ Requires macOS 26 or later.
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.1/Notex.dmg" length="10754554" type="application/octet-stream" sparkle:edSignature="Wxnl7hnrOOvw/63kcgTqiserJG3V9k1us1RJ6H65EIppCvnUS2s2k7jp3FSRULUz9/Jvg0ob/dyhs08sZxvpDQ=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Mon, 07 Sep 2026 15:30:05 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
-            <sparkle:version>8.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.0
-
-More reliable recording, connected notes
-
-- Recording and live transcription keep processing audio while the interface is busy. Capture gaps preserve playback timing, and repeated gaps no longer create thousands of tiny audio files.
-- Live transcripts follow new text automatically. Scroll up to read earlier text without losing your place, then choose Jump to Latest to follow along again.
-- Recording diagnostics now save separate capture and transcription drop counts, timing gaps, and error codes to help investigate interruptions.
-- Keep notes On My Mac or turn on Sync with iCloud in Settings to use them across your Macs. Move notes between accounts and review conflicting versions when needed.
-- Choose your transcription language in Settings > Recording. Speech-model download progress appears before recording begins.
-- Choose a summary format and language in Settings > Templates, create your own templates, and revisit previous summaries through Summary History. Your custom template preferences stay on each Mac when notes sync.
-- Use File > Import from Apple Notes to copy selected folders into Notex.
-- Open Chat to share a note with ChatGPT, Codex, Claude, or Gemini. Compatible desktop assistants can connect to the folders you allow and, with a separate permission, create new notes.
-
-This release requires macOS 26 or later. On-device summaries and note chat require Apple Intelligence availability; live transcription uses the separate speech-recognition service.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.0/Notex.dmg" length="10756169" type="application/octet-stream" sparkle:edSignature="+Y5M/LjSBY6c2RWZHGzuqd5qsPdhu2qCmXwbD30OEZUfeh88jxjyyZ06oYhDU1Jl5IoCMH9KtASS8OfM/LrGAw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: yyXOyjx7ldy5VB5ZLtJ0iODn7g5suNYgLg77MUANX7A5KQCrk/hQ208wA+N1kQZPYW0JRQSAXdA+jgPnreqwBA==
-length: 5505
+edSignature: ltNV6dF/sWJps0Vw2OFXTyA2hPTkkvfdDhxbQTLgK2PABZ+0tLKmF9yb4CqWbqBT7otEH+73BQacr8GTV0LAAQ==
+length: 4639
 -->
