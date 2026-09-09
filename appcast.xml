@@ -6,6 +6,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Wed, 09 Sep 2026 23:20:56 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.5</sparkle:fullReleaseNotesLink>
+            <sparkle:version>18.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.5
+
+Cloud summaries for longer meetings
+You can now use GPT-5 Mini through OpenRouter. Open Settings → General → Manage Connections…, choose OpenRouter under Meeting summaries, and add your API key. The key is saved in Keychain on your Mac, and usage is billed to your OpenRouter account. Transcripts and the current note's text are sent to OpenRouter; audio stays on your Mac.
+
+More reliable recording
+Improved audio saving with Bluetooth microphones and different input formats. Finishing a recording now has time limits so a stalled audio or transcription service cannot leave the recording stuck indefinitely. Available audio and transcript text are preserved when a step fails.
+
+Optional speaker echo reduction
+Turn on Reduce speaker echo in Settings → Recording to use Apple's voice processing with supported microphones. It is off by default. Headphones remain the most reliable way to keep your voice separate from the other participants.
+
+Faster editing and automatic titles
+Typing is more responsive, and new recordings can generate short, descriptive note and recording titles from their transcripts. Existing titles you have chosen are preserved.
+
+Requires macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.5/Notex.dmg" length="12963090" type="application/octet-stream" sparkle:edSignature="g/LF0dqQh6Rvi+T3YtCL6KdO5T86VWQFdXv1/JSjhzk7KxfOtlYzCM6mMosfSKMLj+KRk+9/w+GDa0zfSbEICg=="/>
+        </item>
+        <item>
             <title>0.2.4</title>
             <pubDate>Wed, 09 Sep 2026 09:02:15 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.4</sparkle:fullReleaseNotesLink>
@@ -45,27 +70,9 @@ Requires macOS 26 or later.
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.3/Notex.dmg" length="12713229" type="application/octet-stream" sparkle:edSignature="62Oee01yWxaYSTBZwsXEWi4YgKsMq3/CYkU6udQKEXZHCscjhVRJchwF8POR8ikVHSxWH3FNGX6Pe/kSqpsVCg=="/>
         </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Mon, 07 Sep 2026 22:14:24 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.2</sparkle:fullReleaseNotesLink>
-            <sparkle:version>11.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.2
-
-Readable assistant icons in Dark Mode
-
-- Fixed provider icons appearing black in the Chat menu in Dark Mode.
-- Provider marks now follow native menu foreground, highlight, and disabled colors. Notex actions retain your chosen accent.
-
-Requires macOS 26 or later.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.2/Notex.dmg" length="10755482" type="application/octet-stream" sparkle:edSignature="Si8ZsZAZSCZVA+iHYct3dvTSESYi4ExHII2U0UCRGn3DnSlgLT8QqYNKvak6Q5+tyERU86C3N0SZssDmeFAgBQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5iv+gjUe40PDSdjhBAKXf+XrUq4Nzbbg0OtNUGfAj30/vW+TIzIAud3Nm2OZb5rfUyGBgif39zAWmMEi0h4yBg==
-length: 4214
+edSignature: tKqaktCrqPMs81b2cSUh7h6WVloMueZhgo3YLnJYdcXUr9xsimZeohs0ahOueQgsvyBgihekQcx/YoN99j28CQ==
+length: 5143
 -->
