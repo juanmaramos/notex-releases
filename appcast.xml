@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Wed, 09 Sep 2026 09:02:15 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.4</sparkle:fullReleaseNotesLink>
+            <sparkle:version>16.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.4
+
+Clearer summaries for short recordings
+
+- Summaries now need at least 50 transcript words. Short recordings still save normally, with an inline message explaining why a summary is unavailable.
+- Open Transcript to read a short recording's saved text. The sidebar notice no longer makes the window taller; narrow windows can still widen slightly to fit the sidebar.
+
+Requires macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.4/Notex.dmg" length="12731306" type="application/octet-stream" sparkle:edSignature="I8OmQjrdW70RBvsUu6dt3lTHca94II49Ojg2U19uCkjycTagwvriUNaNU0lZovT2EoJ80jd4AzIG4iKU438BBw=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Tue, 08 Sep 2026 22:53:32 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.3</sparkle:fullReleaseNotesLink>
@@ -45,30 +63,9 @@ Requires macOS 26 or later.
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.2/Notex.dmg" length="10755482" type="application/octet-stream" sparkle:edSignature="Si8ZsZAZSCZVA+iHYct3dvTSESYi4ExHII2U0UCRGn3DnSlgLT8QqYNKvak6Q5+tyERU86C3N0SZssDmeFAgBQ=="/>
         </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Mon, 07 Sep 2026 20:40:16 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
-            <sparkle:version>10.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.1
-
-Your accent, consistently applied
-
-- Choose Yellow, Blue, Purple, Graphite, Pink, or Green in Settings > General > Appearance. Changes now apply immediately without restarting Notex.
-- Buttons, selected tabs, checklists, tags, links, and note selections use the chosen palette consistently. Pink uses richer red-pink tones, Blue and Purple have updated hues, and Graphite keeps its charcoal controls.
-- Menus keep native macOS highlighting, with a system-grey default. Your macOS accent preference still applies to menus.
-- Note and folder selections distinguish where you are working from selections retained elsewhere. Text and selection contrast are improved in light and dark appearances.
-- Changing accents preserves your note content, selection, undo history, and unsent chat drafts.
-
-Requires macOS 26 or later.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.1/Notex.dmg" length="10754554" type="application/octet-stream" sparkle:edSignature="Wxnl7hnrOOvw/63kcgTqiserJG3V9k1us1RJ6H65EIppCvnUS2s2k7jp3FSRULUz9/Jvg0ob/dyhs08sZxvpDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ltNV6dF/sWJps0Vw2OFXTyA2hPTkkvfdDhxbQTLgK2PABZ+0tLKmF9yb4CqWbqBT7otEH+73BQacr8GTV0LAAQ==
-length: 4639
+edSignature: 5iv+gjUe40PDSdjhBAKXf+XrUq4Nzbbg0OtNUGfAj30/vW+TIzIAud3Nm2OZb5rfUyGBgif39zAWmMEi0h4yBg==
+length: 4214
 -->
