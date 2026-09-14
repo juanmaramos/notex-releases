@@ -6,6 +6,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.2.6</title>
+            <pubDate>Mon, 14 Sep 2026 20:51:28 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.6</sparkle:fullReleaseNotesLink>
+            <sparkle:version>19.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.6
+
+Recording that recovers after interruptions
+Recordings can now resume automatically when your display wakes or an audio source becomes available again. Your selected microphone and Reduce speaker echo setting are preserved. Paused recordings stay paused, and time spent interrupted is excluded from the recording duration. If capture cannot recover, Notex finishes saving the available audio and transcript.
+
+Less background disk activity
+Interrupted recordings no longer repeatedly rewrite your library just to update recording diagnostics.
+
+Summaries across recordings
+When a note contains several recordings, its summary now includes their combined transcripts. Summaries you have edited are preserved.
+
+More representative titles and cleaner transcripts
+Automatic titles consider the full conversation, including topics discussed after the introduction. Punctuation-only transcription results no longer create empty-looking speaker rows.
+
+Requires macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.6/Notex.dmg" length="13120189" type="application/octet-stream" sparkle:edSignature="aVOxGnXylXSO3TAhuryGoWCYkoQtXYiCA5IxCvzqWwRYkcqhC4ofdDs0os1Lp6whbVF5Z35Ch9DQCI/Fd0rfAg=="/>
+        </item>
+        <item>
             <title>0.2.5</title>
             <pubDate>Wed, 09 Sep 2026 23:20:56 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.5</sparkle:fullReleaseNotesLink>
@@ -48,31 +73,9 @@ Requires macOS 26 or later.
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.4/Notex.dmg" length="12731306" type="application/octet-stream" sparkle:edSignature="I8OmQjrdW70RBvsUu6dt3lTHca94II49Ojg2U19uCkjycTagwvriUNaNU0lZovT2EoJ80jd4AzIG4iKU438BBw=="/>
         </item>
-        <item>
-            <title>0.2.3</title>
-            <pubDate>Tue, 08 Sep 2026 22:53:32 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.3</sparkle:fullReleaseNotesLink>
-            <sparkle:version>15.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.3
-
-Better editing and recording diagnostics
-
-- Improved native editing, table cell selection, and Undo.
-- Use Insert in Note to add assistant answers while preserving headings and lists.
-- Choose sorting and date grouping for individual folders.
-- Finish and save an active recording when quitting Notex.
-- Added crash reports and recording reliability counts to help investigate failures. Audio, transcripts, and note content are excluded. Turn off Share diagnostic data in Settings > General > Diagnostics to stop sharing.
-- Refined the app icon, appearance controls, and recording cards.
-
-Requires macOS 26 or later.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.3/Notex.dmg" length="12713229" type="application/octet-stream" sparkle:edSignature="62Oee01yWxaYSTBZwsXEWi4YgKsMq3/CYkU6udQKEXZHCscjhVRJchwF8POR8ikVHSxWH3FNGX6Pe/kSqpsVCg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: tKqaktCrqPMs81b2cSUh7h6WVloMueZhgo3YLnJYdcXUr9xsimZeohs0ahOueQgsvyBgihekQcx/YoN99j28CQ==
-length: 5143
+edSignature: dcI2oFiYHPqhs5ypWTiWj2GVfsUXv4nan+6XJhU8ovaZ1VOZP981cu3G4XPBxv4S4aiqNuuFAlitmpde4ArvDg==
+length: 5497
 -->
