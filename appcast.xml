@@ -6,6 +6,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.2.7</title>
+            <pubDate>Wed, 30 Sep 2026 21:06:21 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.7</sparkle:fullReleaseNotesLink>
+            <sparkle:version>21.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.7
+
+OpenRouter on managed networks
+OpenRouter summaries and note chat now connect through Notex. If your organization allows Notex's connection but blocks direct requests to model providers, you can use your own OpenRouter API key. OpenRouter bills inference to your key.
+
+Choose models for summaries and chat
+Select an OpenRouter model separately for meeting summaries and note chat in Settings → AI Connections. Each feature also offers Auto, On Device, and OpenRouter processing choices. Model choices persist across launches, and compact menus show readable model names.
+
+Clearer summary sections
+Generated meeting summaries have more space between section headings. Topic sections focus on context and findings instead of repeating decisions, action items, or open questions.
+
+Cleaner recording options
+The transcript sidebar's options menu uses a compact borderless control.
+
+Requires macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.7/Notex.dmg" length="13236240" type="application/octet-stream" sparkle:edSignature="QEbYAyfqvf6dJO7t2mArb1ByjrV1JoLJsQjvboC2H5OC11wQi3ecTbUY5bI0kOicz84X0650/58Ly5NOl/XJAg=="/>
+        </item>
+        <item>
             <title>0.2.6</title>
             <pubDate>Mon, 14 Sep 2026 20:51:28 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.6</sparkle:fullReleaseNotesLink>
@@ -55,27 +80,9 @@ Requires macOS 26 or later.
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.5/Notex.dmg" length="12963090" type="application/octet-stream" sparkle:edSignature="g/LF0dqQh6Rvi+T3YtCL6KdO5T86VWQFdXv1/JSjhzk7KxfOtlYzCM6mMosfSKMLj+KRk+9/w+GDa0zfSbEICg=="/>
         </item>
-        <item>
-            <title>0.2.4</title>
-            <pubDate>Wed, 09 Sep 2026 09:02:15 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.4</sparkle:fullReleaseNotesLink>
-            <sparkle:version>16.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.4
-
-Clearer summaries for short recordings
-
-- Summaries now need at least 50 transcript words. Short recordings still save normally, with an inline message explaining why a summary is unavailable.
-- Open Transcript to read a short recording's saved text. The sidebar notice no longer makes the window taller; narrow windows can still widen slightly to fit the sidebar.
-
-Requires macOS 26 or later.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.4/Notex.dmg" length="12731306" type="application/octet-stream" sparkle:edSignature="I8OmQjrdW70RBvsUu6dt3lTHca94II49Ojg2U19uCkjycTagwvriUNaNU0lZovT2EoJ80jd4AzIG4iKU438BBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: dcI2oFiYHPqhs5ypWTiWj2GVfsUXv4nan+6XJhU8ovaZ1VOZP981cu3G4XPBxv4S4aiqNuuFAlitmpde4ArvDg==
-length: 5497
+edSignature: A6YuYPiviwFc7J9kAi52XtaXpnRzcd/Nx9i0A8QfduVOv4aviuFLOLOj0wIeX8Lo0v1kzQdCge7sEyW2BoL2Dw==
+length: 6011
 -->
