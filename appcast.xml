@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notex</title>
         <item>
+            <title>0.2.8</title>
+            <pubDate>Thu, 01 Oct 2026 00:06:47 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.8</sparkle:fullReleaseNotesLink>
+            <sparkle:version>23.1</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.8
+
+More faithful OpenRouter action items
+Auto meeting summaries using OpenRouter now ask the model to support each action item with a source excerpt. This helps keep existing routines, questions, and unapproved ideas out of the action list while retaining agreed follow-ups.
+
+Requires macOS 26 or later.
+]]></description>
+            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.8/Notex.dmg" length="13236969" type="application/octet-stream" sparkle:edSignature="BgWjiCMPDyaM3ldDyE3izxf1OsyGlnke2hbeZ0LL0toNETFgyuBjSIiQcrXUqK+EeTYZo04Idc3TRsVmnymSCw=="/>
+        </item>
+        <item>
             <title>0.2.7</title>
             <pubDate>Wed, 30 Sep 2026 21:06:21 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.7</sparkle:fullReleaseNotesLink>
@@ -55,34 +71,9 @@ Requires macOS 26 or later.
 ]]></description>
             <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.6/Notex.dmg" length="13120189" type="application/octet-stream" sparkle:edSignature="aVOxGnXylXSO3TAhuryGoWCYkoQtXYiCA5IxCvzqWwRYkcqhC4ofdDs0os1Lp6whbVF5Z35Ch9DQCI/Fd0rfAg=="/>
         </item>
-        <item>
-            <title>0.2.5</title>
-            <pubDate>Wed, 09 Sep 2026 23:20:56 +0000</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/juanmaramos/notex-releases/releases/tag/v0.2.5</sparkle:fullReleaseNotesLink>
-            <sparkle:version>18.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Notex 0.2.5
-
-Cloud summaries for longer meetings
-You can now use GPT-5 Mini through OpenRouter. Open Settings → General → Manage Connections…, choose OpenRouter under Meeting summaries, and add your API key. The key is saved in Keychain on your Mac, and usage is billed to your OpenRouter account. Transcripts and the current note's text are sent to OpenRouter; audio stays on your Mac.
-
-More reliable recording
-Improved audio saving with Bluetooth microphones and different input formats. Finishing a recording now has time limits so a stalled audio or transcription service cannot leave the recording stuck indefinitely. Available audio and transcript text are preserved when a step fails.
-
-Optional speaker echo reduction
-Turn on Reduce speaker echo in Settings → Recording to use Apple's voice processing with supported microphones. It is off by default. Headphones remain the most reliable way to keep your voice separate from the other participants.
-
-Faster editing and automatic titles
-Typing is more responsive, and new recordings can generate short, descriptive note and recording titles from their transcripts. Existing titles you have chosen are preserved.
-
-Requires macOS 26 or later.
-]]></description>
-            <enclosure url="https://github.com/juanmaramos/notex-releases/releases/download/v0.2.5/Notex.dmg" length="12963090" type="application/octet-stream" sparkle:edSignature="g/LF0dqQh6Rvi+T3YtCL6KdO5T86VWQFdXv1/JSjhzk7KxfOtlYzCM6mMosfSKMLj+KRk+9/w+GDa0zfSbEICg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: A6YuYPiviwFc7J9kAi52XtaXpnRzcd/Nx9i0A8QfduVOv4aviuFLOLOj0wIeX8Lo0v1kzQdCge7sEyW2BoL2Dw==
-length: 6011
+edSignature: OjDRtnCE+BoE9r3ON0nWSLSP92YMxVO5k3fdHzs2r1P6DbYO1xOgLy5ai4peJDguTNII/GDeQ8K+/JZRAR8wBA==
+length: 5120
 -->
